@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RealmPerformaceTest</string>
+    <string name="search">search</string>
+    <string name="generate">Generate</string>
+    <string name="perf">perf.realm</string>
+    <string name="write_to_file">write to file</string>
+    <string name="read_from_file">read from file</string>
+    <string name="download">download/Unzip/Load</string>
+    <string name="clear">Clear</string>
+    <string name="unzipfile">unzipFile</string>
+    <string name="download_time">Download Time:</string>
+    <string name="zip_time">Unzip Time:</string>
+    <string name="load_jobs_to_db">Load jobs to db:</string>
+</resources>
